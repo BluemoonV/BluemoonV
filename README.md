@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **WEB DEVOLOPMENT**
+- 🌱 I’m currently learning **Machine Learning, Deep learning**
 
-- 💬 Ask me about **C++, JAVA**
+- 💬 Ask me about **C++, JAVA, AI,**
 
 - 📫 How to reach me **nourinfaria19@gmail.com**
 
